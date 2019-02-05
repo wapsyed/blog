@@ -39,7 +39,7 @@
 <p>Entre no <a href="https://www.rcsb.org/">site do PDB</a> e pesquise pelo nome genérico da proteína (Insulin).</p>
 </li>
 <li>
-<p>Faça o refinamento da busca quando as estruturas forem listadas. Neste caso, queremos só <strong>insulina humana</strong> (<strong>Organism: Homo sapiens only</strong>), somente a Insulin, <strong>não Insulin-receptor ou Insulin-degrading enzyme</strong>, tem de ser <strong>100% Representativa</strong> e a <strong>Resolução</strong> tem de ser baixa (no caso, &lt;1.499A). O texto de busca deve parecer com este:</p>
+<p>Faça o refinamento da busca quando as estruturas forem listadas. Neste caso, queremos só <strong>insulina humana</strong> (<strong>Organism: Homo sapiens only</strong>), somente a Insulin, <strong>não Insulin-receptor ou Insulin-degrading enzyme</strong>, tem de ser <strong>100% Representativa</strong> e a <strong>Resolução</strong> tem de ser alta (no caso, &lt;1.499A). O texto de busca deve parecer com este:</p>
 </li>
 </ol>
 <pre><code>Text Search for: insulin and TAXONOMY is just Homo sapiens (human) and TAXONOMY is only just Homo sapiens (human) and Molecule : Insulin [P01308, P01315, P01317, P01318, P30410, P67974] 
